@@ -1,0 +1,74 @@
+[
+    {
+        "title": "Why We Use <br> Element",
+        "answer_1": "To make Text Bold",
+        "answer_2": "To make Text Italic",
+        "answer_3": "To Add Breakline",
+        "answer_4": "To add Horizontal Line",
+        "right_answer": "To Add Breakline"
+    },
+    {
+        "title": "Why We Use <a> Element",
+        "answer_1": "To create tables",
+        "answer_2": "To add images",
+        "answer_3": "To create hyperlinks",
+        "answer_4": "To add background color",
+        "right_answer": "To create hyperlinks"
+    },
+    {
+        "title": "Why We Use <img> Element",
+        "answer_1": "To insert images",
+        "answer_2": "To create forms",
+        "answer_3": "To add a paragraph",
+        "answer_4": "To make text bold",
+        "right_answer": "To insert images"
+    },
+    {
+        "title": "Purpose of <ul> Element",
+        "answer_1": "To create unordered lists",
+        "answer_2": "To create ordered lists",
+        "answer_3": "To add a line break",
+        "answer_4": "To create forms",
+        "right_answer": "To create unordered lists"
+    },
+    {
+        "title": "Why We Use <table> Element",
+        "answer_1": "To display images",
+        "answer_2": "To create a table structure",
+        "answer_3": "To add videos",
+        "answer_4": "To create paragraphs",
+        "right_answer": "To create a table structure"
+    },
+    {
+        "title": "Why We Use <div> Element",
+        "answer_1": "To divide content into sections",
+        "answer_2": "To make text italic",
+        "answer_3": "To create hyperlinks",
+        "answer_4": "To create lists",
+        "right_answer": "To divide content into sections"
+    },
+    {
+        "title": "Purpose of <input> Element",
+        "answer_1": "To create clickable buttons",
+        "answer_2": "To capture user input",
+        "answer_3": "To insert images",
+        "answer_4": "To create headings",
+        "right_answer": "To capture user input"
+    },
+    {
+        "title": "Why We Use <h1> to <h6> Elements",
+        "answer_1": "To create paragraphs",
+        "answer_2": "To add images",
+        "answer_3": "To define headings",
+        "answer_4": "To add links",
+        "right_answer": "To define headings"
+    },
+    {
+        "title": "Why We Use <span> Element",
+        "answer_1": "To style inline text or elements",
+        "answer_2": "To create headings",
+        "answer_3": "To add tables",
+        "answer_4": "To create forms",
+        "right_answer": "To style inline text or elements"
+    }
+]
